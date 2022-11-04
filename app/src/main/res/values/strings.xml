@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Latihan</string>
+    <string name="width">Lebar</string>
+    <string name="length">Panjang</string>
+    <string name="height">Tinggi</string>
+    <string name="calculate_volume">Hitung Volume</string>
+    <string name="result">Hasil</string>
+    <string name="calculate_surface">Hitung Luas Permukaan</string>
+    <string name="calculate_circumference">Hitung Keliling</string>
+</resources>
